@@ -1,0 +1,21 @@
+{
+  "name": "duck-punch",
+  "version": "1.0.0",
+  "description": "Duck punch objects with reckless abandon",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rpflorence/duck-punch.js.git"
+  },
+  "keywords": [
+    "aop"
+  ],
+  "author": "Ryan Florence",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rpflorence/duck-punch.js/issues"
+  }
+}
