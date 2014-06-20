@@ -22,7 +22,7 @@ punch(baby, 'poo', function(old, oz) {
   var old(oz) + ' of really stinky stuff';
 });
 
-baby.poo();
-// 'pooped 2oz of really stinky stuff'
+baby.poo(10);
+// 'pooped 10oz of really stinky stuff'
 ```
 
