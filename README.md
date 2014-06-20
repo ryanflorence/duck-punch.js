@@ -19,7 +19,7 @@ baby.poo(2);
 // 'pooped 2oz'
 
 punch(baby, 'poo', function(old, oz) {
-  var old(oz) + ' of really stinky stuff';
+  return old(oz) + ' of really stinky stuff';
 });
 
 baby.poo(10);
