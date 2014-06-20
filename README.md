@@ -18,11 +18,11 @@ var baby = {
 baby.poo(2);
 // 'pooped 2oz'
 
-punch(obj, 'poo', function(old, oz) {
+punch(baby, 'poo', function(old, oz) {
   var old(oz) + ' of really stinky stuff';
 });
 
-obj.poo();
+baby.poo();
 // 'pooped 2oz of really stinky stuff'
 ```
 
